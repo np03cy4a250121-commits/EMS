@@ -2,7 +2,7 @@ const Event = require("./Event");
 const Attendee = require("./Attendee");
 const Registration = require("./Registration");
 const Admin = require("./Admin");
-const User = require("./UserModel");
+const User = require("./userModel");
 
 
 // Registration belongs to Event
