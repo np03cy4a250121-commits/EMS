@@ -1,0 +1,44 @@
+.navbar{
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 25px;
+    background:#2d6cdf;
+    color:#fff;
+    box-sizing:border-box;
+}
+
+.navbar h2{
+    margin:0;
+    font-size:24px;
+}
+
+.navbar-right{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+
+.navbar-right a{
+    color:#fff;
+    text-decoration:none;
+    font-weight:600;
+}
+
+.navbar-right span{
+    font-weight:600;
+}
+
+.logout-btn{
+    background:#dc3545;
+    color:white;
+    border:none;
+    padding:10px 18px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.logout-btn:hover{
+    background:#bb2d3b;
+}

@@ -1,0 +1,56 @@
+.about-container {
+    padding: 50px;
+    text-align: center;
+}
+
+.about-container h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+.about-page {
+    min-height: 70vh;
+    padding: 60px 20px;
+    background: #f5f7fb;
+}
+
+.about-container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.about-container h1 {
+    text-align: center;
+    color: #2563eb;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.about-container h2 {
+    color: #1e293b;
+    margin-top: 30px;
+}
+
+.about-container p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #475569;
+}
+
+.about-container ul {
+    margin-top: 15px;
+}
+
+.about-container li {
+    font-size: 17px;
+    margin-bottom: 10px;
+    color: #475569;
+}
